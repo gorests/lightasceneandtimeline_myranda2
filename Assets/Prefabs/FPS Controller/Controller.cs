@@ -19,9 +19,9 @@ public class Controller : MonoBehaviour
 
     [Header("Control Settings")]
     public float MouseSensitivity = 100.0f;
-    public float PlayerSpeed = 5.0f;
-    public float RunningSpeed = 7.0f;
-    public float JumpSpeed = 5.0f;   
+    public float PlayerSpeed = 4.0f;
+    public float RunningSpeed = 5.0f;
+    public float JumpSpeed = 3.0f;   
 
     float m_VerticalSpeed = 0.0f;
     bool m_IsPaused = false;
